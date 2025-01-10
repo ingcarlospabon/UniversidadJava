@@ -27,5 +27,6 @@ public class SistemaEmpleado {
         System.out.println("\t Nombre: " + nombreEmpleado);
         System.out.println("\tEdad: " + edadEmpleado);
         System.out.println("\tSalario: " + salarioEmpleado);
+
     }
 }
