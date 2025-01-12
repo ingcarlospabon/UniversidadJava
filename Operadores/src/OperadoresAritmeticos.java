@@ -17,7 +17,7 @@ public class OperadoresAritmeticos {
 
         //division /
         resultado = a / b;
-        System.out.println("resultado división=" + resultado);
+        System.out.println("resultado división= " + resultado);
 
         //modulo %
         resultado = a % b;
